@@ -1,0 +1,5 @@
+condition,photo,corrAns,mouse_LR,mouse_LR_t
+congruent_left,Images/congruent_left.png,left,L,L_t
+incongruent_left,Images/incongruent_left.png,left,L,L_t
+congruent_right,Images/congruent_right.png,right,R,R_t
+incongruent_right,Images/incongruent_right.png,right,R,R_t
